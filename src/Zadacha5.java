@@ -11,6 +11,7 @@ public class Zadacha5 {
         int a = in.nextInt();
         int b = in.nextInt();
         int x=-b/a;
+
         System.out.println(x);
 
     }
